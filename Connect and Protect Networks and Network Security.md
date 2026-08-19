@@ -23,3 +23,4 @@ Understanding types of network attacks and techniques used to secure compromised
 Became familiar with network hardening practices that strengthen network systems. Learn how security hardening helps defend against malicious actors and intrusion methods. also learned how to use security hardening to address the unique security challenges posed by cloud infrastructures.
 
 ## Course Certificate
+<img width="1166" height="904" alt="image" src="https://github.com/user-attachments/assets/da81616b-ba0f-4ae6-8013-72dfe8d3e0c3" />
