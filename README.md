@@ -21,7 +21,7 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 
 **Google**
 
-Each of these courses material and certificates of accomplishments are included in a .md in this repo.
+Each of these courses material and certificates of accomplishments are included in an .md file in this repo.
 
 - 🛡️ Foundations of Cybersecurity🛡️
 - 📊 Play It Safe: Manage Security Risks 📊
@@ -35,7 +35,7 @@ Each of these courses material and certificates of accomplishments are included 
 
 
 ## Khaled As a Digital Gurdian
-At the end of this Certificate I have build teh follwoing portfolio:
+At the end of this Certificate I have build the follwoing portfolio:
 
 I am driven by a rapid ability to learn new technologies and a commitment to clear, effective communication. At my core, I firmly believe in protecting user privacy and data, operating by the mantra: "People before profit.
 My passion for cybersecurity is deeply rooted in my hands-on background with Identity and Access Management (IAM) and Active Directory (AD) security. Working directly with access controls showed me that securing user identities is the absolute frontline of data protection. My goal is to proactively defend organizations against privilege escalation and unauthorized access while championing my core belief: 'People before profit.' By combining my expertise in directory services with my ability to upskill quickly and communicate complex risks clearly, I am well-equipped to advance the security posture of forward-thinking organizations."
