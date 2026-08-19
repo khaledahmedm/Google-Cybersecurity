@@ -23,3 +23,4 @@ Exploring industry leading security information and event management (SIEM) tool
 Learning about the purposes and common uses of playbooks. Also exploring how cybersecurity professionals use playbooks to respond to identified threats, risks, and vulnerabilities.
 
 ## Course Certificate
+<img width="1163" height="899" alt="image" src="https://github.com/user-attachments/assets/533a083f-c279-4f73-8867-86387ea3ec3d" />
