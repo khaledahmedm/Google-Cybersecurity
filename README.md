@@ -26,7 +26,7 @@ Each of these courses material and certificates of accomplishments are included 
 - 🛡️ Foundations of Cybersecurity🛡️
 - 📊 Play It Safe: Manage Security Risks 📊
 - 🌐 Connect and Protect: Networks and Network Security🌐
-- [🔧 Tools of the Trade: Linux and SQL🔧]([https://example.com](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.md))
+- [🔧 Tools of the Trade: Linux and SQL🔧](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.md))
 - ⚠️ Assets, Threats, and Vulnerabilities⚠️
 - 🚨 Sound the Alarm: Detection and Response 🚨
 - 🤖  Automate Cybersecurity Tasks with Python🤖
