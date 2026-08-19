@@ -23,3 +23,4 @@ Discovering common tools used by cybersecurity analysts to identify and mitigate
 
 ## Course Certificate
 
+<img width="1160" height="901" alt="image" src="https://github.com/user-attachments/assets/2469418a-3d0b-46d0-a3e5-0c6be6d66765" />
