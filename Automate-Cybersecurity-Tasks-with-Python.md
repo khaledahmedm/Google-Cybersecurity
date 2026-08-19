@@ -19,3 +19,4 @@ I learned more options for working with strings and lists in Python, and discove
 I put Python into practice and focus on automating cybersecurity-related tasks, which requires working with files. I am introduced to opening and reading files. Then, I learned to parse files and structure their contents. Finally, I then focus on strategies for debugging code.
 
 ## Course Certificate
+<img width="1161" height="900" alt="image" src="https://github.com/user-attachments/assets/d106486e-920b-46b0-b39c-0ff5db07c6f3" />
