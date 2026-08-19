@@ -1,5 +1,5 @@
 # Cybersecurity Professional with Goggle 
-This repository tracks my coursework for the Google Cybersecurity Professional Certificate.. Through this program, I am enhancing my skills and knowledge in cybersecurity via an extensive learning journey on Coursera.
+This repository tracks my coursework for the Google Cybersecurity Professional Certificate. Through this program, I am enhancing my skills and knowledge in cybersecurity via an extensive learning journey on Coursera.
 
 ## The Google Cybersecurity Certificate
 The Google Cybersecurity Certificate has eight courses that focus and build upon core concepts and skills related to the daily work of cybersecurity professionals, including foundational cybersecurity models and frameworks that are used to mitigate risk; protecting networks and data; using programming to automate tasks; identifying and responding to security incidents; and communicating and collaborating with stakeholders. Additionally, apply what is learned in each course by completing portfolio projects that can be used to showcase the understanding of essential cybersecurity concepts to potential employers. The courses of the program are as follows: 
