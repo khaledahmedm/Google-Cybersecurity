@@ -42,9 +42,12 @@ My passion for cybersecurity is deeply rooted in my hands-on background with Ide
 
 ## Badges Earned! 
 
+<img width="1673" height="912" alt="image" src="https://github.com/user-attachments/assets/ed4a5052-ed56-4599-8694-e6692829584d" />
 
+<img width="1058" height="815" alt="image" src="https://github.com/user-attachments/assets/54e73879-5925-4c4e-84f8-cab4ab208aac" />
 
 
 
 ## Certificate of Completion
 
+<img width="1167" height="902" alt="image" src="https://github.com/user-attachments/assets/24911663-250e-4a55-b1ef-4b067a7f4c5f" />
