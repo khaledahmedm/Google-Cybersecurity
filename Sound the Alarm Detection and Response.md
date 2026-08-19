@@ -1,5 +1,5 @@
 # Sound the Alarm: Detection and Response
-In this course, you will focus on incident detection and response. You'll define a security incident and explain the incident response lifecycle, including the roles and responsibilities of incident response teams. You'll analyze and interpret network communications to detect security incidents using packet sniffing tools to capture network traffic. By assessing and analyzing artifacts, you'll explore the incident investigation and response processes and procedures. Additionally, you'll practice using Intrusion Detection Systems (IDS) and Security Information Event Management (SIEM) tools.
+In this course, I focused on incident detection and response. I defined a security incident and explored the incident response lifecycle, including the roles and responsibilities of incident response teams. I have analyzed and interpreted network communications to detect security incidents using packet sniffing tools to capture network traffic. By assessing and analyzing artifacts, I have explored the incident investigation and response processes and procedures. Additionally, i have practiced using Intrusion Detection Systems (IDS) and Security Information Event Management (SIEM) tools.
 ![image](https://github.com/user-attachments/assets/caddc129-88d4-449a-9f03-33d6287bccbe)
 
 ## Skills set 
