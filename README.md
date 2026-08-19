@@ -23,7 +23,7 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 
 Each of these courses material and certificates of accomplishments are included in an .md file in this repo.
 
-- 🛡️ Foundations of Cybersecurity🛡️
+- 🛡️[Foundations of Cybersecurity]🛡️(https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Foundations%20of%20Cybersecurity.md)
 - 📊 Play It Safe: Manage Security Risks 📊
 - 🌐 Connect and Protect: Networks and Network Security🌐
 - [🔧 Tools of the Trade: Linux and SQL🔧](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.md)
