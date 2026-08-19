@@ -27,3 +27,4 @@ Practice using SQL to communicate with databases. Learned how to query a databas
 
 ## Course Certificate
 
+<img width="1162" height="901" alt="image" src="https://github.com/user-attachments/assets/0106659d-7d58-4ad0-8466-3c6d3e9e2e65" />
