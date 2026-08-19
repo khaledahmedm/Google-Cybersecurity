@@ -25,3 +25,4 @@ You will learn about the various processes and procedures in the stages of incid
 You will explore logs and their role in Intrusion Detection Systems (IDS) and Security Information Event Management (SIEM) systems. You'll learn how these systems detect attacks. You’ll also be introduced to some IDS and SIEM products. In addition, you’ll write basic IDS rules to provide alerts for malicious network traffic.
 
 ## Course Certificate 
+<img width="1164" height="902" alt="image" src="https://github.com/user-attachments/assets/0e999dc3-98c5-4ff2-b978-cedd29a0999c" />
