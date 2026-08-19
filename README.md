@@ -24,13 +24,13 @@ The Google Cybersecurity Certificate has eight courses that focus and build upon
 Each of these courses material and certificates of accomplishments are included in an .md file in this repo.
 
 - [🛡️Foundations of Cybersecurity🛡️](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Foundations%20of%20Cybersecurity.md)
-- 📊 Play It Safe: Manage Security Risks 📊
-- 🌐 Connect and Protect: Networks and Network Security🌐
+- [📊 Play It Safe: Manage Security Risks 📊](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Play%20it%20safe%20Manage%20Security%20Risks.md)
+- [🌐 Connect and Protect: Networks and Network Security🌐](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Connect%20and%20Protect%20Networks%20and%20Network%20Security.md)
 - [🔧 Tools of the Trade: Linux and SQL🔧](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.md)
-- ⚠️ Assets, Threats, and Vulnerabilities⚠️
-- 🚨 Sound the Alarm: Detection and Response 🚨
-- 🤖  Automate Cybersecurity Tasks with Python🤖
-- 💼 Put It to Work: Prepare for Cybersecurity Jobs💼
+- [⚠️ Assets, Threats, and Vulnerabilities⚠️](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Assets-Threats-and-Vulnerabilities.md)
+- [🚨 Sound the Alarm: Detection and Response 🚨](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Sound%20the%20Alarm%20Detection%20and%20Response.md)
+- [🤖  Automate Cybersecurity Tasks with Python🤖](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Automate-Cybersecurity-Tasks-with-Python.md)
+- [💼 Put It to Work: Prepare for Cybersecurity Jobs💼](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Put%20It%20to%20Work%20Prepare%20for%20Cybersecurity%20Jobs.md)
 
 
 
