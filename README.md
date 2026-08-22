@@ -29,7 +29,7 @@ Each of these courses material and certificates of accomplishments are included 
 - [🔧 Tools of the Trade: Linux and SQL🔧](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.md)
 - [⚠️ Assets, Threats, and Vulnerabilities⚠️](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Assets-Threats-and-Vulnerabilities.md)
 - [🚨 Sound the Alarm: Detection and Response 🚨](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Sound%20the%20Alarm%20Detection%20and%20Response.md)
-- [🤖  Automate Cybersecurity Tasks with Python🤖](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Automate-Cybersecurity-Tasks-with-Python.md)
+- [🤖  Automate Cybersecurity Tasks with Python🤖]([https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Automate-Cybersecurity-Tasks-with-Python.md](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Automate%20Cybersecurity%20Tasks%20with%20Python.md))
 - [💼 Put It to Work: Prepare for Cybersecurity Jobs💼](https://github.com/khaledahmedm/Google-Cybersecurity/blob/main/Put%20It%20to%20Work%20Prepare%20for%20Cybersecurity%20Jobs.md)
 
 
